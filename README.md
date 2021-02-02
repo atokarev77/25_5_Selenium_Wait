@@ -1,1 +1,1 @@
-# 25_5_Selenium_Wait
+Выполнение задания 25.5 курса QA SkillFactory
